@@ -1,4 +1,4 @@
-The plaintext is:
+The plaintext is:  
 Wonderful. You can read the message way better when the letters are in correct order. I think you would like to see your password now: robfgshrrgfn.
 
 In this order 1->2->3->4 to encrypt the plaintext, so we can get the ciphers.
@@ -46,5 +46,5 @@ like
 ***
 Reference:
 1. https://www.dcode.fr/transposition-cipher
->How to decipher a transposition cipher without key?
+>How to decipher a transposition cipher without key?  
 It is possible to test all the permutations if the key is not too long, but the most effective method is to have or try to guess a word from the plain text and to deduce the permutations of the columns.
