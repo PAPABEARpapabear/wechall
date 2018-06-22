@@ -4,8 +4,6 @@ import re
 
 cipher = "zuuhymqisobuvcuwbabuvcieuhymmiqx xfuhuw ergstesocfkfvcgser vcwbiemi pxgsmimibuqigs miuwtetegsmimiptuwbabacfqx sabumi ymuhvc vcuhuh erieptptieteuwbavc gsievcwbgssozf atbumi ievcde sagsbabazf qiuhuher bhuhjdqx zsymvcgsso vcwbiemi azgscfatuhsoer bumi miuhbauwvcieuhymyl teerymmierpxkftesogsiebuqx"
 
-# cipher_parts = cipher.split(" ")
-
 two_to_one_table = {
     "qx": ".",
     "zu": "C",
@@ -60,5 +58,5 @@ if __name__ == "__main__":
     main()
 
 ```
-Plain text(not decrypt all character pair to get the solution):
+Plain text(not decrypt all character pair to get the solution):  
 CONGRATULATIONS. YOU DECRYPTED THIS MESSAGE SUCCESSFULLY. WAS NOT TOO DIFFICULT EITHER, WAS IT? WELL, GOOD bhOjd. ENTER THIS KEYWORD AS SOLUTIONyl CDNSDMPCREIA.
