@@ -31,7 +31,10 @@ two_to_one_table = {
     "az": "K",
     "at": "W",
     "de": "?",
-    "sa": "W"
+    "sa": "W",
+    "bh": "J",
+    "jd": "B",
+    "yl": ":"
 }
 
 def replace_sentence():
@@ -58,5 +61,5 @@ if __name__ == "__main__":
     main()
 
 ```
-Plain text(not decrypt all character pair to get the solution):  
-CONGRATULATIONS. YOU DECRYPTED THIS MESSAGE SUCCESSFULLY. WAS NOT TOO DIFFICULT EITHER, WAS IT? WELL, GOOD bhOjd. ENTER THIS KEYWORD AS SOLUTIONyl CDNSDMPCREIA.
+Plain text:  
+CONGRATULATIONS. YOU DECRYPTED THIS MESSAGE SUCCESSFULLY. WAS NOT TOO DIFFICULT EITHER, WAS IT? WELL, GOOD JOB. ENTER THIS KEYWORD AS SOLUTION: CDNSDMPCREIA.
